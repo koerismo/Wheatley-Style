@@ -2,13 +2,6 @@
 "Name"  "Wheatley Style"
 "Desc"  "Adds wheatley style."
 
-
-"Prerequisites"
-	{
-	"Package"	"BEE2_CLEAN"
-	}
-
-
 "Style"
 	{
 	"ID"          "BEE2_WHEATLEY"
@@ -17,7 +10,7 @@
 	"Icon"        "styles/clean.png"
 	"IconLarge"   "prev/clean.png"
 	"Name"        "Wheatley"
-	"Base"        "BEE2_CLEAN"
+	"Base"        ""
 	
 	"Has_Video"   "1"
 	"Description" "A slightly modified version of clean with a bit of wheatley. BEWARE: THIS STYLE IS STILL IN DEVELOPMENT."
