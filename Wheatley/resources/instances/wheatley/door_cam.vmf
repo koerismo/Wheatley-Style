@@ -1,0 +1,52 @@
+versioninfo
+{
+"editorversion" "400"
+"editorbuild" "6432"
+"mapversion" "18"
+"formatversion" "100"
+"prefab" "0"
+}
+visgroups
+{
+}
+world
+{
+"id" "2"
+"classname" "worldspawn"
+"mapversion" "18"
+"skyname" "sky_black_nofog"
+editor
+{
+"color" "0 0 0"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 2]"
+"comments" ""
+}
+}
+entity
+{
+"id" "36"
+"angles" "-90 180 0"
+"classname" "npc_security_camera"
+"disableflashlight" "0"
+"disableshadowdepth" "0"
+"disableshadows" "0"
+"drawinfastreflection" "0"
+"lookatplayerpings" "0"
+"origin" "128 -32 -64"
+"shadowdepthnocache" "0"
+"skin" "0"
+"spawnflags" "32"
+"targetname" "@cam"
+"teamplayertolookat" "0"
+"teamtolookat" "1"
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 0]"
+"comments" ""
+}
+}

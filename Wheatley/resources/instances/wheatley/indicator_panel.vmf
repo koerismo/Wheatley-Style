@@ -1,0 +1,246 @@
+versioninfo
+{
+"editorversion" "400"
+"editorbuild" "7552"
+"mapversion" "100"
+"formatversion" "100"
+"prefab" "0"
+}
+visgroups
+{
+}
+world
+{
+"id" "2"
+"classname" "worldspawn"
+"mapversion" "100"
+"skyname" "sky_day01_01"
+editor
+{
+"color" "0 0 0"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 2]"
+"comments" ""
+}
+}
+entity
+{
+"id" "1197"
+"classname" "func_noportal_volume"
+"origin" "0 0 -62.5"
+"spawnflags" "0"
+solid
+{
+"id" "1184"
+side
+{
+"id" "1"
+"plane" "(-16 16 -61) (16 16 -61) (16 -16 -61)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 -1 0 60] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "2"
+"plane" "(-16 -16 -64) (16 -16 -64) (16 16 -64)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 -1 0 60] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "3"
+"plane" "(-16 16 -61) (-16 -16 -61) (-16 -16 -64)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[0 1 0 -60] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "4"
+"plane" "(16 16 -64) (16 -16 -64) (16 -16 -61)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[0 1 0 -60] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "5"
+"plane" "(16 16 -61) (-16 16 -61) (-16 16 -64)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "6"
+"plane" "(16 -16 -64) (-16 -16 -64) (-16 -16 -61)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+}
+}
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 500]"
+"comments" ""
+}
+}
+entity
+{
+"id" "1202"
+"classname" "func_portal_bumper"
+"origin" "0 0 -62.5"
+"spawnflags" "0"
+solid
+{
+"id" "1203"
+side
+{
+"id" "18"
+"plane" "(-16 16 -61) (16 16 -61) (16 -16 -61)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 -1 0 60] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "17"
+"plane" "(-16 -16 -64) (16 -16 -64) (16 16 -64)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 -1 0 60] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "16"
+"plane" "(-16 16 -61) (-16 -16 -61) (-16 -16 -64)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[0 1 0 -60] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "15"
+"plane" "(16 16 -64) (16 -16 -64) (16 -16 -61)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[0 1 0 -60] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "14"
+"plane" "(16 16 -61) (-16 16 -61) (-16 16 -64)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+side
+{
+"id" "13"
+"plane" "(16 -16 -64) (-16 -16 -64) (-16 -16 -61)"
+"material" "TOOLS/TOOLSINVISIBLE"
+"uaxis" "[1 0 0 -8] 0.25"
+"vaxis" "[0 0 -1 0] 0.25"
+"rotation" "0.0"
+"lightmapscale" "16"
+"smoothing_groups" "0"
+}
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+}
+}
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 500]"
+"comments" ""
+}
+}
+entity
+{
+"id" "981"
+"angles" "-90 180 0"
+"classname" "prop_indicator_panel"
+"enabled" "1"
+"indicatorlights" "$indicator_name"
+"istimer" "$is_timer"
+"origin" "9.53674e-007 -3.08273e-008 -62.9"
+"skin" "0"
+"targetname" "pan"
+"timerduration" "$timer_delay"
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 500]"
+"comments" ""
+}
+}
+entity
+{
+"id" "1149"
+"classname" "func_instance_parms"
+"origin" "0 0 -48"
+"parm1" "$timer_delay integer 3"
+"parm2" "$is_timer integer 0"
+"parm3" "$indicator_name target_destination"
+editor
+{
+"color" "220 30 220"
+"visgroupshown" "1"
+"visgroupautoshown" "1"
+"logicalpos" "[0 2500]"
+"comments" ""
+}
+}
